@@ -1,0 +1,26 @@
+{
+  "Mission": {
+    "NCCOLBDPKGK": "Mission",
+    "JFAPDHMDJGO": "NotNormal"
+  },
+  "Equipment": {
+    "NCCOLBDPKGK": "Equipment",
+    "JFAPDHMDJGO": "Rare"
+  },
+  "Relic": {
+    "NCCOLBDPKGK": "Relic",
+    "JFAPDHMDJGO": "VeryRare"
+  },
+  "HeadIcon": {
+    "NCCOLBDPKGK": "HeadIcon",
+    "JFAPDHMDJGO": "NotNormal"
+  },
+  "MusicAlbum": {
+    "NCCOLBDPKGK": "MusicAlbum",
+    "JFAPDHMDJGO": "Rare"
+  },
+  "ChatBubble": {
+    "NCCOLBDPKGK": "ChatBubble",
+    "JFAPDHMDJGO": "VeryRare"
+  }
+}
